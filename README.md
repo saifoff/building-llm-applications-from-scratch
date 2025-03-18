@@ -236,9 +236,3 @@ This course prepares you for roles such as:
 - Secure access to course content
 - Privacy-focused community guidelines
 - Secure payment processing
-
----
-
-## 📝 **License and Usage**
-
-This course material is licensed under MIT License. See LICENSE file for details. 
