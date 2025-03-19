@@ -229,10 +229,3 @@ This course prepares you for roles such as:
 - Access: Lifetime access to course materials
 
 ---
-
-## 🔒 **Privacy and Security**
-
-- All course materials are encrypted
-- Secure access to course content
-- Privacy-focused community guidelines
-- Secure payment processing
